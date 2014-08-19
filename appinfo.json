@@ -1,0 +1,236 @@
+{
+    "appKeys": {
+        "blink": 0,
+        "bluetoothvibe": 1,
+        "hourlyvibe": 2,
+        "invert": 3
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "mreed",
+    "longName": "Angled",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/stencil-menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/STENCIL-BTOFF.png",
+                "name": "IMAGE_BLUETOOTH",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-bg-friday.png",
+                "name": "IMAGE_DAY_NAME_FRI",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-bg-sat.png",
+                "name": "IMAGE_DAY_NAME_SAT",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-100percent.png",
+                "name": "IMAGE_BATTERY",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-percent.png",
+                "name": "IMAGE_TINY_PERCENT",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-9.png",
+                "name": "IMAGE_TINY_9",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-8.png",
+                "name": "IMAGE_TINY_8",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-7.png",
+                "name": "IMAGE_TINY_7",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-6.png",
+                "name": "IMAGE_TINY_6",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-5.png",
+                "name": "IMAGE_TINY_5",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-4.png",
+                "name": "IMAGE_TINY_4",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-3.png",
+                "name": "IMAGE_TINY_3",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-2.png",
+                "name": "IMAGE_TINY_2",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-1.png",
+                "name": "IMAGE_TINY_1",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-batt-0.png",
+                "name": "IMAGE_TINY_0",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-bg-thu.png",
+                "name": "IMAGE_DAY_NAME_THU",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-bg-sun.png",
+                "name": "IMAGE_DAY_NAME_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-bg-wed.png",
+                "name": "IMAGE_DAY_NAME_WED",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-0.png",
+                "name": "IMAGE_DATENUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-9.png",
+                "name": "IMAGE_DATENUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-8.png",
+                "name": "IMAGE_DATENUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-7.png",
+                "name": "IMAGE_DATENUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-6.png",
+                "name": "IMAGE_DATENUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-5.png",
+                "name": "IMAGE_DATENUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-4.png",
+                "name": "IMAGE_DATENUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-3.png",
+                "name": "IMAGE_DATENUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-bg-tue.png",
+                "name": "IMAGE_DAY_NAME_TUE",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-bg.png",
+                "name": "IMAGE_DAY_NAME_MON",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-date-2.png",
+                "name": "IMAGE_DATENUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/stencildate-1.png",
+                "name": "IMAGE_DATENUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-6.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-sep.png",
+                "name": "IMAGE_SEP",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-9.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-8.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-7.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-5.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-4.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-3.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-2.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-1.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/stencil-0.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Angled",
+    "uuid": "780649cd-2a57-4094-9c3c-35fbd79f8f54",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
